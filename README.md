@@ -1,7 +1,7 @@
 # EEG-SleepGPT
 
 
-![EEG-SleepGpt](C:\Users\glw\Desktop\智能体和llm\EEG-SleepGPT\EEG-SleepGPT\image\EEG-SleepGpt.png)
+![EEG-SleepGpt](image\EEG-SleepGpt.png)
 
 
 
