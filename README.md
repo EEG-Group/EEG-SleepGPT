@@ -1,5 +1,12 @@
 # EEG-SleepGPT
+
+
+![EEG-SleepGpt](C:\Users\glw\Desktop\智能体和llm\EEG-SleepGPT\EEG-SleepGPT\image\EEG-SleepGpt.png)
+
+
+
 ## Environment Set Up
+
 Install required packages:
 ```bash
 conda create -n EEG-SleepGPT python=3.12
@@ -52,5 +59,4 @@ OMP_NUM_THREADS=1 torchrun --nnodes=1 --nproc_per_node=8 train_instruction.py \
     --wandb_runname your_runname \
     --wandb_api_key your_api_key \
 ```
-
 
