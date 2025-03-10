@@ -1,7 +1,7 @@
 # EEG-SleepGPT
 
 
-![EEG-SleepGpt](image\EEG-SleepGpt.png)
+![EEG-SleepGpt](image/EEG-SleepGpt.png)
 
 
 
